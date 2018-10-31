@@ -5,3 +5,15 @@ Hizo un Commit dandole clic en Commit,
 y ahora como que si va a funcionar... veamos
 
 Un tercer cambio para estar segura del procedimiento:
+
+Un mes después, retomo y repaso el prcedimiento
+- Abro el archivo
+- Hago los cambios
+- Voy a SourceTree, hago "Commit"
+- Aun en SourceTree, hago ¿GitBash?
+- Veo en Git (web) a ver si se sincronizó...
+
+:P será que ya?
+
+Parece que aprendí, pero no aprendí a poner títulos... 
+vamos a revisar de nuevo
